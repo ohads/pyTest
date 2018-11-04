@@ -1,0 +1,5 @@
+language: python
+os: osx
+notifications:
+	email:
+		ohad@shultzu.com
